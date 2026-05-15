@@ -1,13 +1,13 @@
 # INFORMACIÓN PROVISIONAL
 
-# Presentaciones duales de 2º DAM (mañana) del curso 2025 / 2026
+# Presentaciones duales de 2º DAW (mañana) del curso 2025 / 2026
 
-Listado con enlaces a los **repositorios** de entrega y normas para las exposiciones de alumnos duales de **2º DAM** (Desarrollo de Aplicaciones Multiplataforma) turno de mañana del **CPIFP Alan Turing** (Málaga - PTA) del curso 2025 - 2026.
+Listado con enlaces a los **repositorios** de entrega y normas para las exposiciones de alumnos duales de **2º DAW** (Desarrollo de Aplicaciones WEB) turno de mañana del **CPIFP Alan Turing** (Málaga - PTA) del curso 2025 - 2026.
 
 ## Índice
 
 * [Listado con enlaces a los repositorios](#sec-horario)
-  * [2DAM mañana](#1dam)
+  * [2DAW mañana](#1dam)
     
 * [Duración del vídeo](#sec-tiempo)
 * [Contenido de la presentación](#sec-contenido)
@@ -22,7 +22,7 @@ La tabla está **agrupada por empresa**: cada fila es una **empresa** (o centro 
 
 Si en una empresa hay **varios participantes**, **comparten un solo repositorio** y **una sola URL** en la tabla. En el `README.md` (o en la estructura del repo) debe quedar **muy claro** qué corresponde a **cada persona**: enlace al **vídeo de la exposición de cada uno** y **descripción de la actividad de cada uno** en prácticas (tareas, temporalización, aportación individual, etc.), además de lo común a la empresa.
 
-### 2DAM
+### 2DAW
 
 La **fecha límite** para publicar en la tabla el enlace al repositorio será el **jueves 4 de junio de 2026 a las 23:59 horas**.
 
@@ -30,20 +30,22 @@ Cuando el repositorio esté listo, **sustituye** en la **fila de tu empresa** la
 
 | Logo | Empresa | Participantes | Enlace al repositorio |
 | :--: | :-- | :-- | :-- |
-| <img src="img/IUITLM.png" height="18" alt="Accenture" /> | IUITLM - UMA | Ballesteros Martínez, Javier<br>Maldonado Triana, Alberto  | *pendiente* |
-| <img src="img/erasmusplus.jpg" height="32" alt="Erasmus" /> | Erasmus+ | Bueno González, Salvador | *pendiente* |
-| <img src="img/aliqindoi.png" height="18" alt="Aliqindoi" /> | Aliqindoi | Butrii, Sergii | *pendiente* |
-| <img src="img/erasmusplus.jpg" height="22" alt="Erasmus" /> | Erasmus+ | Cano Jiménez, Antonio Lorenzo<br>Romero Maldonado, Adrián | *pendiente* |
-| <img src="img/PROPERLY.png" height="28" alt="Properly" /> | Properly | Cobo Sánchez, Francisco de Asís | *pendiente* |
-| <img src="img/AngelsCaring.jpeg" height="18" alt="Angels Caring" /> | Angels Caring | Cristóbal Gómez, Hugo de | *pendiente* |
-| <img src="img/uma.png" height="22" alt="UMA" /> | UMA | Diáñez Gómez, Guillermo | *pendiente* |
-| <img src="img/viewnext.jpeg" height="22" alt="ViewNext" /> | ViewNext | Domínguez González, José Antonio<br>Jiménez Muñoz, Álvaro | *pendiente* |
-| <img src="img/accenture.png" height="22" alt="Accenture" /> | Accenture | Faura Martín, Lucas<br>González Ortiz, María del Rosario | *pendiente* |
-| <img src="img/ldquantum.jpeg" height="22" alt="LD Quantum" /> | LD Quantum | García Luque, Mario<br>García Ruiz, Samuel | *pendiente* |
-| <img src="img/salvador.jpeg" height="22" alt="Panadería Salvador" /> | Panadería Salvador | López González, Jose María | *pendiente* |
-| <img src="img/NTT.png" height="22" alt="NTT-Data" /> | NTT-Data | Mora Mata, Ángela | *pendiente* |
-| <img src="img/sipadan.png" height="22" alt="Sipadan" /> | Sipadan | Salces Alcaraz, Antonio | *pendiente* |
-| <img src="img/silice.jpg" height="22" alt="Sílice" /> | Sílice | Vargas Berrocal, Ezequiel | *pendiente* |
+| <img src="img/silice.jpg" height="22" alt="Sílice" /> | Sílice | Bellón Payer, David<br> | *pendiente* |
+| <img src="img/" height="18" alt=" 64Train" /> | 64Train | Bernal González, Martín<br> | *pendiente* |
+| <img src="img/erasmusplus.jpg" height="32" alt="Erasmus" /> | Erasmus+ | Castillo Gaitán, Carmen| *pendiente* |
+| <img src="img/erasmusplus.jpg" height="32" alt="Erasmus" /> | Erasmus+ | Gabriel Cocargeanu, Cristian| *pendiente* |
+| <img src="img/erasmusplus.jpg" height="32" alt="Erasmus" /> | Erasmus+ | García Maldonado, Carlos Hugo| *pendiente* |
+| <img src="img/erasmusplus.jpg" height="32" alt="Erasmus" /> | Erasmus+ | Villar Roldán, Luis| *pendiente* |
+| <img src="img/viewnext.jpeg" height="22" alt="ViewNext" /> | ViewNext | Díaz Plaza, Míriam<br> Espinosa Ramos, Dana <br> Jiménez González, Juan <br> Morente Vargas, Martín <br> Postigo Bernal, Miguel Ángel| *pendiente* |
+| <img src="img/" height="18" alt="Elevadores" /> | General Elevadores XXI, Sl | Fernández-Lomana Herrera, Pablo| *pendiente* |
+| <img src="img/" height="32" alt="T Games" /> | T Games | Godino Wallace, Luis| *pendiente* |
+| <img src="img/accenture.png" height="22" alt="Accenture" /> | Accenture | López Calderón, Ignacio| *pendiente* |
+| <img src="img/uma.png" height="22" alt="UMA" /> | UMA | Mayger Giralde, Mateo Richard <br> | *pendiente* |
+| <img src="img/" height="22" alt="Over-Dev" /> | Over-Dev | Navajas García, Gonzalo <br> | *pendiente* |
+| <img src="img/erasmusplus.jpg" height="32" alt="Erasmus" /> | REM Experience  | Palomares Rodríguez, Manuel <br> Romero Castillo, Javier | *pendiente* |
+|  <img src="img/salvador.jpeg" height="22" alt="Panadería Salvador" /> | Panadería Confitería Salvador, Sl | Rivas García, David | *pendiente* |
+| <img src="img/erasmusplus.jpg" height="32" alt="Erasmus" /> | IES Campanillas |Trujillo Fernández, Daniel | *pendiente* |
+
 
 <a id="sec-tiempo"></a>
 
