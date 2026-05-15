@@ -31,18 +31,18 @@ Cuando el repositorio esté listo, **sustituye** en la **fila de tu empresa** la
 | Logo | Empresa | Participantes | Enlace al repositorio |
 | :--: | :-- | :-- | :-- |
 | <img src="img/silice.jpg" height="22" alt="Sílice" /> | Sílice | Bellón Payer, David<br> | *pendiente* |
-| <img src="img/" height="18" alt=" 64Train" /> | 64Train | Bernal González, Martín<br> | *pendiente* |
+| <img src="img/64Train.png" height="18" alt=" 64Train" /> | 64Train | Bernal González, Martín<br> | *pendiente* |
 | <img src="img/erasmusplus.jpg" height="32" alt="Erasmus" /> | Erasmus+ | Castillo Gaitán, Carmen| *pendiente* |
 | <img src="img/erasmusplus.jpg" height="32" alt="Erasmus" /> | Erasmus+ | Gabriel Cocargeanu, Cristian| *pendiente* |
 | <img src="img/erasmusplus.jpg" height="32" alt="Erasmus" /> | Erasmus+ | García Maldonado, Carlos Hugo| *pendiente* |
 | <img src="img/erasmusplus.jpg" height="32" alt="Erasmus" /> | Erasmus+ | Villar Roldán, Luis| *pendiente* |
 | <img src="img/viewnext.jpeg" height="22" alt="ViewNext" /> | ViewNext | Díaz Plaza, Míriam<br> Espinosa Ramos, Dana <br> Jiménez González, Juan <br> Morente Vargas, Martín <br> Postigo Bernal, Miguel Ángel| *pendiente* |
-| <img src="img/" height="18" alt="Elevadores" /> | General Elevadores XXI, Sl | Fernández-Lomana Herrera, Pablo| *pendiente* |
-| <img src="img/" height="32" alt="T Games" /> | T Games | Godino Wallace, Luis| *pendiente* |
+| <img src="img/generalelevadores.png" height="18" alt="Elevadores" /> | General Elevadores XXI, Sl | Fernández-Lomana Herrera, Pablo| *pendiente* |
+| <img src="img/TGame.png" height="32" alt="T Games" /> | T Games | Godino Wallace, Luis| *pendiente* |
 | <img src="img/accenture.png" height="22" alt="Accenture" /> | Accenture | López Calderón, Ignacio| *pendiente* |
 | <img src="img/uma.png" height="22" alt="UMA" /> | UMA | Mayger Giralde, Mateo Richard <br> | *pendiente* |
-| <img src="img/" height="22" alt="Over-Dev" /> | Over-Dev | Navajas García, Gonzalo <br> | *pendiente* |
-| <img src="img/" height="32" alt="" /> | REM Experience  | Palomares Rodríguez, Manuel <br> Romero Castillo, Javier | *pendiente* |
+| <img src="img/OverDev.png" height="22" alt="Over-Dev" /> | Over-Dev | Navajas García, Gonzalo <br> | *pendiente* |
+| <img src="img/Rem Experience.png" height="32" alt="" /> | REM Experience  | Palomares Rodríguez, Manuel <br> Romero Castillo, Javier | *pendiente* |
 |  <img src="img/salvador.jpeg" height="22" alt="Panadería Salvador" /> | Panadería Confitería Salvador, Sl | Rivas García, David | *pendiente* |
 | <img src="img/" height="32" alt="" /> | IES Campanillas |Trujillo Fernández, Daniel | *pendiente* |
 
