@@ -90,7 +90,7 @@ Más allá de lo técnico, lo que más me llevo de las prácticas es haber visto
 
 ### Material
 - Diapositivas: [`Memoria_FCT.pptx`](./Memoria_FCT.pptx)
-- Vídeo individual: *(pendiente — ver [Vídeos](#vídeos-de-la-exposición))*
+- Vídeo individual: *( ver [Vídeos](#vídeos-de-la-exposición))*
 
 ---
 
@@ -147,7 +147,7 @@ Más allá de lo técnico, lo que más me llevo de las prácticas es haber visto
 | Vídeo | Responsable | Enlace |
 |---|---|---|
 | Parte común (empresa) | Carmen y Cristian | *(pendiente de enlace)* |
-| Parte individual — Carmen Castillo Gaitán | Carmen | *(pendiente de enlace)* |
+| Parte individual — Carmen Castillo Gaitán | Carmen | https://youtu.be/A1GBMs84Oy0 |
 | Parte individual — Cristian Gabriel Cocargeanu | Cristian | *(pendiente de enlace)* |
 
 > Sustituir *"(pendiente de enlace)"* por la URL del vídeo (YouTube no listado, Vimeo, plataforma del centro, etc.) cuando esté disponible.
