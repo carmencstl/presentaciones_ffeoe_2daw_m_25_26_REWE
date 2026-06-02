@@ -36,7 +36,7 @@ Presentación general sobre REWE digital, elaborada **conjuntamente por Carmen y
 
 **Contenido:** qué es REWE digital y su contexto en el Grupo REWE · a qué se dedica · sedes y cultura *"Home of IT"* · innovación en el retail · modelo de negocio sostenible y objetivos climáticos.
 
-Diapositivas: [`REWE_digital.pptx`](./REWE_digital.pptx)
+Diapositivas: [`REWE_digital.pdf`](./REWE_digital.pdf)
 Vídeo (parte común): *(ver [Vídeos](#vídeos-de-la-exposición))*
 
 ---
@@ -155,7 +155,7 @@ Las prácticas en el equipo CAP fueron una experiencia muy positiva. Me permitie
 | Archivo | Descripción |
 |---|---|
 | [`README.md`](./README.md) | Este documento |
-| [`REWE_digital.pptx`](./REWE_digital.pptx) | Presentación de empresa (común) |
+| [`REWE_digital.pdf`](./REWE_digital.pdf) | Presentación de empresa (común) |
 | [`PRACTICAS_CARMEN_CASTILLO.pdf`](./PRACTICAS_CARMEN_CASTILLO.pdf) | Memoria de prácticas de Carmen |
 | [`CAP_diapositiva.pdf`](./CAP_diapositiva.pdf) | Memoria de prácticas de Cristian |
 
