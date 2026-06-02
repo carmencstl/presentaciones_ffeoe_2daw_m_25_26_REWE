@@ -1,4 +1,4 @@
-# Prácticas en empresa (FFE/OE) — REWE digital, Colonia
+# Prácticas en empresa — REWE digital, Colonia
 
 Repositorio de entrega de la estancia en prácticas en **[REWE digital](https://www.rewe-digital.com/)** (Colonia, Alemania), correspondiente al módulo de Formación en Empresa del **CFGS de Desarrollo de Aplicaciones Web** (2DAW, curso 2025/26).
 
@@ -7,7 +7,7 @@ Repositorio **compartido** por los dos participantes que realizaron las práctic
 | Alumno/a | Departamento | Periodo |
 |---|---|---|
 | Carmen Castillo Gaitán | Observability | Febrero–Mayo 2026 |
-| Cristian Gabriel Cocargeanu | *(ver sección individual)* | Febrero–Mayo 2026 |
+| Cristian Gabriel Cocargeanu | *Placeholder* | Febrero–Mayo 2026 |
 
 ---
 
