@@ -1,108 +1,171 @@
-# INFORMACIÓN PROVISIONAL
+# Prácticas en empresa (FFE/OE) — REWE digital, Colonia
 
-# Presentaciones duales de 2º DAW (mañana) del curso 2025 / 2026
+Repositorio de entrega de la estancia en prácticas en **[REWE digital](https://www.rewe-digital.com/)** (Colonia, Alemania), correspondiente al módulo de Formación en Empresa del **CFGS de Desarrollo de Aplicaciones Web** (2DAW, curso 2025/26).
 
-Listado con enlaces a los **repositorios** de entrega y normas para las exposiciones de alumnos duales de **2º DAW** (Desarrollo de Aplicaciones WEB) turno de mañana del **CPIFP Alan Turing** (Málaga - PTA) del curso 2025 - 2026.
+Repositorio **compartido** por los dos participantes que realizaron las prácticas en esta empresa. Cada uno trabajó en un **departamento distinto**, por lo que la actividad individual se documenta por separado más abajo.
+
+| Alumno/a | Departamento | Periodo |
+|---|---|---|
+| Carmen Castillo Gaitán | Observability | Febrero–Mayo 2026 |
+| Cristian Gabriel Cocargeanu | *(ver sección individual)* | Febrero–Mayo 2026 |
+
+---
 
 ## Índice
 
-* [Listado con enlaces a los repositorios](#sec-horario)
-  * [2DAW mañana](#1dam)
-    
-* [Duración del vídeo](#sec-tiempo)
-* [Contenido de la presentación](#sec-contenido)
-* [Formato y entrega](#sec-formato)
-* [Modalidad de la exposición](#sec-modalidad)
+- [La empresa: REWE digital](#la-empresa-rewe-digital) *(común)*
+- [Presentación de empresa](#presentación-de-empresa) *(común)*
+- [Carmen Castillo Gaitán](#carmen-castillo-gaitán) *(individual)*
+- [Cristian Gabriel Cocargeanu](#cristian-gabriel-cocargeanu) *(individual)*
+- [Vídeos de la exposición](#vídeos-de-la-exposición)
+- [Materiales del repositorio](#materiales-del-repositorio)
 
-<a id="sec-horario"></a>
+---
 
-## Listado con enlaces a los repositorios
+## La empresa: REWE digital
 
-La tabla está **agrupada por empresa**: cada fila es una **empresa** (o centro de prácticas) y la columna **Participantes** recoge a todos los alumnos y alumnas asignados a ella. Debe publicarse el **enlace al repositorio de entrega** (por ejemplo en GitHub), donde el **profesorado** encontrará lo necesario para evaluar las estancias. Ese repositorio debe cumplir lo indicado en [formato y entrega](#sec-formato); los **vídeos** deben cumplir [contenido](#sec-contenido) y [duración](#sec-tiempo).
+REWE digital es la unidad tecnológica del **Grupo REWE**, uno de los mayores grupos de distribución y alimentación de Europa. Desde su sede en Colonia desarrolla la tecnología de prácticamente todo el negocio del grupo: comercio online (e-food), apps para clientes y plantilla, sistemas TPV, logística y fulfillment, fidelización, pagos y cloud. Cuenta con más de 2.700 especialistas repartidos en varias sedes europeas (incluida Málaga) y define su cultura como *"Home of IT"*.
 
-Si en una empresa hay **varios participantes**, **comparten un solo repositorio** y **una sola URL** en la tabla. En el `README.md` (o en la estructura del repo) debe quedar **muy claro** qué corresponde a **cada persona**: enlace al **vídeo de la exposición de cada uno** y **descripción de la actividad de cada uno** en prácticas (tareas, temporalización, aportación individual, etc.), además de lo común a la empresa.
+> Contexto detallado en la presentación de empresa (ver abajo).
 
-### 2DAW
+---
 
-La **fecha límite** para publicar en la tabla el enlace al repositorio será el **jueves 4 de junio de 2026 a las 23:59 horas**.
+## Presentación de empresa
 
-Cuando el repositorio esté listo, **sustituye** en la **fila de tu empresa** la palabra *pendiente* por la **URL del repositorio** (idealmente la raíz del repo, para que se vea el `README.md` al abrir el enlace). Si varios participantes comparten empresa, **cualquiera de ellos** puede actualizar esa celda o coordinarse para que figure un único enlace válido.
+Presentación general sobre REWE digital, elaborada **conjuntamente por Carmen y Cristian** como parte común de la estancia.
 
-| Logo | Empresa | Participantes | Enlace al repositorio |
-| :--: | :-- | :-- | :-- |
-| <img src="img/silice.jpg" height="22" alt="Sílice" /> | Sílice | Bellón Payer, David<br> | *pendiente* |
-| <img src="img/64Train.png" height="18" alt=" 64Train" /> | 64Train | Bernal González, Martín<br> | *pendiente* |
-| <img src="img/erasmusplus.jpg" height="32" alt="Erasmus" /> | Erasmus+ - Rewe | Castillo Gaitán, Carmen <br> Gabriel Cocargeanu, Cristian| *pendiente* |
-| <img src="img/erasmusplus.jpg" height="32" alt="Erasmus" /> | Erasmus+ - Yes Academy |  Sánchez Quintero, Rubén | https://github.com/RubenSanchez63/Presentacion-2DAW |
-| <img src="img/erasmusplus.jpg" height="32" alt="Erasmus" /> | Erasmus+  - Forum Ziviler | García Maldonado, Carlos Hugo| *pendiente* |
-| <img src="img/erasmusplus.jpg" height="32" alt="Erasmus" /> | Erasmus+  - OBI Servive | Villar Roldán, Luis| *pendiente* |
-| <img src="img/viewnext.jpeg" height="22" alt="ViewNext" /> | ViewNext | Díaz Plaza, Míriam<br> Espinosa Ramos, Dana <br> Jiménez González, Juan <br> Morente Vargas, Martín <br> Postigo Bernal, Miguel Ángel| *pendiente* |
-| <img src="img/generalelevadores.png" height="18" alt="Elevadores" /> | General Elevadores XXI, Sl | Fernández-Lomana Herrera, Pablo| *pendiente* |
-| <img src="img/TGame.png" height="32" alt="T Games" /> | T Games | Godino Wallace, Luis| *pendiente* |
-| <img src="img/accenture.png" height="22" alt="Accenture" /> | Accenture | López Calderón, Ignacio| https://github.com/IgnacioLopezCalderon/presentacion-practicas-ILC/tree/main |
-| <img src="img/uma.png" height="22" alt="UMA" /> | UMA | Mayger Giralde, Mateo Richard <br> | *pendiente* |
-| <img src="img/OverDev.png" height="22" alt="Over-Dev" /> | Over-Dev | Navajas García, Gonzalo <br> | *pendiente* |
-| <img src="img/Rem Experience.png" height="32" alt="" /> | REM Experience  | Palomares Rodríguez, Manuel <br> Romero Castillo, Javier | *pendiente* |
-|  <img src="img/salvador.jpeg" height="22" alt="Panadería Salvador" /> | Panadería Confitería Salvador, Sl | Rivas García, David | https://github.com/DavidRivasG/presentacion_david_rivas_garcia |
-| <img src="img/iescampanillas.jpg" height="32" alt="IESCampanillas" /> | IES Campanillas |Trujillo Fernández, Daniel | *pendiente* |
+**Contenido:** qué es REWE digital y su contexto en el Grupo REWE · a qué se dedica · sedes y cultura *"Home of IT"* · innovación en el retail · modelo de negocio sostenible y objetivos climáticos.
 
+Diapositivas: [`REWE_digital.pptx`](./REWE_digital.pptx)
+Vídeo (parte común): *(pendiente — ver [Vídeos](#vídeos-de-la-exposición))*
 
-<a id="sec-tiempo"></a>
+---
 
-## Duración del vídeo
+## Carmen Castillo Gaitán
 
-Los límites de tiempo aplican al **vídeo** (o a la secuencia de vídeos enlazados, si se entrega en varias partes) de cada alumno o grupo en la misma empresa.
+### Contexto
 
-Los alumnos de la misma empresa deberán incluir en el vídeo una parte **común** sobre la empresa, de **5 minutos como máximo**. Si solo hay un alumno o alumna en la empresa, deberá incluir igualmente esa parte común. Después, cada uno incluirá una parte **individual** sobre su trabajo de **5 minutos como máximo**. Ahí termina la exposición grabada: **no** hay turno de preguntas ni cierre extra, porque la revisión la hace el profesorado **sin acto presencial**.
+- **Departamento:** Observability
+- **Periodo:** Febrero–Mayo 2026
 
-El material sobre la empresa (introducción, contexto) puede ser común para todos los alumnos que hayan realizado la formación dual en ella. Esa parte común y las partes individuales pueden estar en **un solo vídeo largo** o en **varios vídeos**; en cualquier caso, en el `README.md` del repositorio (compartido o no) debe poder localizarse **sin duda** el tramo o el enlace correspondiente a **cada alumno**.
+El equipo de Observability monitoriza y analiza la salud y el rendimiento de los sistemas digitales (logs, métricas y trazas) para detectar y resolver incidencias rápidamente, garantizando alta disponibilidad y fiabilidad. Una de las herramientas centrales del equipo es **Netcool**, que recoge eventos de otras aplicaciones de monitorización (Grafana, Checkmk…), los clasifica y envía notificaciones ordenadas a los equipos correspondientes.
 
-Ejemplo de temporización para el grupo XXXX, con **repositorio compartido**:
+### Tareas y responsabilidades por módulo
 
-* Hasta 5 minutos: parte común de la empresa
-* Hasta 5 minutos: parte individual del Alumno1
-* Hasta 5 minutos: parte individual de Alumno2
-* Hasta 5 minutos: parte individual de Alumno3
+#### Desarrollo en Entorno Cliente
+Diseño y maquetación de las notificaciones (**correo electrónico y Microsoft Teams**) que envía Netcool, avisando a los equipos con la información ya clasificada y ordenada.
 
-<a id="sec-contenido"></a>
+> Aunque no usé frameworks como React o Angular, consolidé mis bases de JavaScript: fue el lenguaje en el 99% de las prácticas.
 
-## Contenido de la presentación
+**Herramientas:** HTML · CSS · JavaScript
 
-El vídeo de la exposición debe incluir, como mínimo, el siguiente contenido:
+#### Desarrollo en Entorno Servidor
+Varias soluciones de servidor para el sistema de monitorización:
+- **Integración ServiceNow ↔ Netcool/Impact (REST API):**
+  - *CMDB Sync* — recuperación, transformación y deduplicación de datos de ServiceNow en tablas y *lookup files* de Netcool.
+  - *Incident Automation* — creación y gestión en tiempo real de tickets en ServiceNow disparados por eventos de Netcool.
+- **Policy "email repeat"** — política para Netcool/Impact que reenvía las notificaciones de un evento a intervalos configurables (a petición de un equipo).
+- **Script en Python** para gestionar la adición y eliminación de usuarios en grupos de LDAP.
 
-* Introducción a la empresa. Se debe hacer en común cuando en la misma empresa hay varios alumnos.
-* Tareas desempeñadas con temporalización por semanas.
-* Herramientas utilizadas.
-* Conocimientos adquiridos por cada módulo profesional.
-* Valoración de la experiencia dual por parte del alumno.
+**Herramientas:** JavaScript · Python · API REST · SQL · PostgreSQL · LDAP · Netcool/Impact
 
-En el **`README.md` del repositorio** (especialmente si **varios alumnos comparten repo** por estar en la misma empresa) debe **informarse por escrito la actividad de cada alumno**: qué ha hecho cada uno, en qué periodos y con qué responsabilidades, de modo que el profesor pueda evaluar la estancia de **cada persona** sin ambigüedad. Los enlaces al vídeo de cada uno deben ir **rotulados con el nombre** del alumno o alumna.
+#### Diseño de Interfaces
+Rediseño visual de las plantillas de notificación, diseñando directamente en código: mejora de la apariencia, la legibilidad y la organización de la información, con criterios de **accesibilidad** (paleta apta para personas daltónicas) e incorporación de nuevos campos útiles (*Original Severity* y *Product*).
 
-<a id="sec-formato"></a>
+**Herramientas:** HTML · CSS · Accesibilidad
 
-## Formato y entrega
+#### Despliegue de Aplicaciones
+Contribución de código a repositorios con un flujo de **CI/CD** ya establecido: control de versiones (commits, push, pull requests) e integración a través de los pipelines automáticos del equipo.
 
-En la tabla de este repositorio hay **una fila por empresa** y un solo campo de **enlace al repositorio de entrega** (público o accesible para el profesorado). Si la empresa tiene **varios participantes**, todos usan **ese mismo enlace** a un repositorio compartido.
+**Herramientas:** Git · GitLab · CI/CD
 
-Ese repositorio debe contener, como mínimo:
+#### Inglés
+Lengua vehicular durante toda la estancia: comunicación diaria con el equipo, participación en las *dailies* y exposiciones, en un entorno de trabajo internacional.
 
-* Un archivo **`README.md` en la raíz** con **toda la información** que el profesor necesite para **evaluar la estancia en prácticas** (contexto, empresa, tareas, temporalización, herramientas, módulos, valoración, etc., según lo pedido en [contenido](#sec-contenido)). Si el repo es **compartido**, el `README` debe organizarse de forma que se vea **por separado** la información y la **actividad en empresa de cada alumno**, además de lo común a la empresa.
-* En ese mismo `README.md`, **un enlace claro al vídeo de la exposición de cada alumno** (o a listas de reproducción si el vídeo va en varias partes), **identificado con el nombre** de la persona. El vídeo puede alojarse fuera del repo (**YouTube** no listado, **Vimeo**, plataforma del centro, etc.), pero **debe enlazarse desde el `README.md`** del repositorio de entrega.
-* **Cualquier otro material** que quiera mostrar el alumno (diapositivas, PDF, imágenes, código de ejemplo, etc.) debe **estar en ese mismo repositorio** (archivos o carpetas dentro del proyecto). El profesorado revisará a partir del repositorio enlazado, no de copias locales que no estén subidas.
+### Stack utilizado
+`JavaScript` · `Python` · `HTML` · `CSS` · `SQL` · `PostgreSQL` · `LDAP` · `Netcool/Impact` · `ServiceNow (REST API)` · `Git` · `GitLab (CI/CD)`
 
-El vídeo debe respetar la [duración](#sec-tiempo) indicada (parte común de empresa y partes individuales). Se puede utilizar la herramienta que prefieras para grabarlo y editarlo.
+### Valoración personal
+Más allá de lo técnico, lo que más me llevo de las prácticas es haber visto desde dentro cómo funciona una gran empresa y el mundo laboral real. Lo que más valoré fueron las **metodologías de trabajo y la organización** de los equipos. La experiencia también ha aumentado mi interés por el ámbito **DevOps**.
 
-<a id="sec-modalidad"></a>
+### Material
+- Diapositivas: [`Memoria_FCT.pptx`](./Memoria_FCT.pptx)
+- Vídeo individual: *(pendiente — ver [Vídeos](#vídeos-de-la-exposición))*
 
-## Modalidad de la exposición
+---
 
-El enlace al **repositorio de entrega** se publica en la **fila de la empresa** en esta tabla (repositorio único por empresa, compartido si hay varios participantes); **no** hay asistencia presencial al centro para presentar ni **turno de preguntas** en directo.
+## Cristian Gabriel Cocargeanu
 
-El **profesorado** revisará el material **de forma no presencial** (repositorio, `README.md`, vídeos enlazados por alumno y anexos en el repo), en su tiempo y según los criterios y el calendario del departamento.
+<!-- Cristian: completa tu sección siguiendo la misma estructura que la de Carmen. -->
 
-<hr>
+### Contexto
 
-Si te ha resultado útil este repositorio, por favor marca el repositorio con una estrella en GitHub. ¡Gracias!
+- **Departamento:** <!-- tu departamento (distinto al de Carmen) -->
+- **Periodo:** Febrero–Mayo 2026
 
+<!-- Describe brevemente tu departamento y a qué se dedicaba. -->
 
+### Tareas y responsabilidades por módulo
 
+#### Desarrollo en Entorno Cliente
+<!-- Qué hiciste -->
+
+**Herramientas:** <!-- ... -->
+
+#### Desarrollo en Entorno Servidor
+<!-- Qué hiciste -->
+
+**Herramientas:** <!-- ... -->
+
+#### Diseño de Interfaces
+<!-- Qué hiciste -->
+
+**Herramientas:** <!-- ... -->
+
+#### Despliegue de Aplicaciones
+<!-- Qué hiciste -->
+
+**Herramientas:** <!-- ... -->
+
+#### Inglés
+<!-- Qué hiciste -->
+
+### Stack utilizado
+<!-- `Tecnología 1` · `Tecnología 2` · ... -->
+
+### Valoración personal
+<!-- Tu valoración personal de las prácticas. -->
+
+### Material
+- Diapositivas: <!-- [`nombre_de_tu_presentacion.pptx`](./nombre_de_tu_presentacion.pptx) -->
+- Vídeo individual: *(pendiente — ver [Vídeos](#vídeos-de-la-exposición))*
+
+---
+
+## Vídeos de la exposición
+
+| Vídeo | Responsable | Enlace |
+|---|---|---|
+| Parte común (empresa) | Carmen y Cristian | *(pendiente de enlace)* |
+| Parte individual — Carmen Castillo Gaitán | Carmen | *(pendiente de enlace)* |
+| Parte individual — Cristian Gabriel Cocargeanu | Cristian | *(pendiente de enlace)* |
+
+> Sustituir *"(pendiente de enlace)"* por la URL del vídeo (YouTube no listado, Vimeo, plataforma del centro, etc.) cuando esté disponible.
+
+---
+
+## Materiales del repositorio
+
+| Archivo | Descripción |
+|---|---|
+| [`README.md`](./README.md) | Este documento |
+| [`REWE_digital.pptx`](./REWE_digital.pptx) | Presentación de empresa (común) |
+| [`Memoria_FCT.pptx`](./Memoria_FCT.pptx) | Memoria de prácticas de Carmen |
+| *(pendiente)* | Memoria de prácticas de Cristian |
+
+---
+
+## Autores
+
+- **Carmen Castillo Gaitán** — CFGS Desarrollo de Aplicaciones Web (2DAW)
+- **Cristian Gabriel Cocargeanu** — CFGS Desarrollo de Aplicaciones Web (2DAW)
