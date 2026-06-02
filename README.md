@@ -2,12 +2,12 @@
 
 Repositorio de entrega de la estancia en prácticas en **[REWE digital](https://www.rewe-digital.com/)** (Colonia, Alemania), correspondiente al módulo de Formación en Empresa del **CFGS de Desarrollo de Aplicaciones Web** (2DAW, curso 2025/26).
 
-Repositorio **compartido** por los dos participantes que realizaron las prácticas en esta empresa. Cada uno trabajó en un **departamento distinto**, por lo que la actividad individual se documenta por separado más abajo.
+Repositorio **compartido** por los dos participantes que realizaron las prácticas en esta empesa. Cada uno trabajó en un **departamento distinto**, por lo que la actividad individual se documenta por separado más abajo.
 
 | Alumno/a | Departamento | Periodo |
 |---|---|---|
 | Carmen Castillo Gaitán | Observability | Febrero–Mayo 2026 |
-| Cristian Gabriel Cocargeanu | *Placeholder* | Febrero–Mayo 2026 |
+| Cristian Gabriel Cocargeanu | Identity and Access Management | Febrero–Mayo 2026 |
 
 ---
 
@@ -96,48 +96,46 @@ Más allá de lo técnico, lo que más me llevo de las prácticas es haber visto
 
 ## Cristian Gabriel Cocargeanu
 
-<!-- Cristian: completa tu sección siguiendo la misma estructura que la de Carmen. -->
-
 ### Contexto
 
-- **Departamento:** <!-- tu departamento (distinto al de Carmen) -->
+- **Departamento:** Identity and Access Management
 - **Periodo:** Febrero–Mayo 2026
 
-<!-- Describe brevemente tu departamento y a qué se dedicaba. -->
+El equipo CAP forma parte del departamento de Identity & Access Management de REWE Digital. Es responsable del diseño y operación de la plataforma IGA (Gestión y Administración de Identidades) para todo el grupo REWE.
 
 ### Tareas y responsabilidades por módulo
 
 #### Desarrollo en Entorno Cliente
-<!-- Qué hiciste -->
+Consumo de APIs REST para interactuar con Keycloak, probando y validando conectores desde el cliente.
 
-**Herramientas:** <!-- ... -->
+**Herramientas:** Keycloak · REST API · XML
 
 #### Desarrollo en Entorno Servidor
-<!-- Qué hiciste -->
+Gestión de identidades y servicios de directorio con LDAP Studio. Implementación de pipelines de CI/CD con GitLab y ArgoCD. Monitorización del estado de la plataforma mediante paneles de Prometheus en Grafana.
 
-**Herramientas:** <!-- ... -->
+**Herramientas:** LDAP Studio · GitLab · ArgoCD · Prometheus · Grafana · midPoint
 
 #### Diseño de Interfaces
-<!-- Qué hiciste -->
+Cambio de color de la interfaz de midpoint, cambio de la fuente de las letras y añadir el logo de rewe group a la plataforma
 
-**Herramientas:** <!-- ... -->
+**Herramientas:** midPoint
 
 #### Despliegue de Aplicaciones
-<!-- Qué hiciste -->
+Operación de entornos en contenedores con Docker, Kubernetes y Rancher. Seguimiento del trabajo en sprints ágiles con Jira y Confluence.
 
-**Herramientas:** <!-- ... -->
+**Herramientas:** Docker · Kubernetes · Rancher · Podman · ArgoCD
 
 #### Inglés
-<!-- Qué hiciste -->
+Comunicación técnica en entorno profesional internacional dentro de REWE Digital, incluyendo documentación y herramientas en inglés.
 
 ### Stack utilizado
-<!-- `Tecnología 1` · `Tecnología 2` · ... -->
+`Keycloak` · `midPoint` · `GitLab` · `ArgoCD` · `Kubernetes` · `Docker` · `Rancher` · `Podman` · `Prometheus` · `Grafana` · `LDAP` · `Apache Directory` · `XML` · `Jira` · `Confluence`
 
 ### Valoración personal
-<!-- Tu valoración personal de las prácticas. -->
+Las prácticas en el equipo CAP fueron una experiencia muy positiva. Me permitieron adquirir conocimiento práctico en gobernanza y administración de identidades empresariales a gran escala, así como profundizar en conceptos clave como Zero Trust y RBAC. Trabajar con un stack tecnológico real y maduro en un entorno profesional internacional fue especialmente enriquecedor.
 
 ### Material
-- Diapositivas: <!-- [`nombre_de_tu_presentacion.pptx`](./nombre_de_tu_presentacion.pptx) -->
+- Diapositivas: [`CAP_diapositiva.pdf`](./CAP_diapositiva.pdf)
 - Vídeo individual: *(pendiente — ver [Vídeos](#vídeos-de-la-exposición))*
 
 ---
@@ -148,7 +146,7 @@ Más allá de lo técnico, lo que más me llevo de las prácticas es haber visto
 |---|---|---|
 | Parte común (empresa) | Carmen y Cristian | https://youtu.be/Z2qFGWRVAeI |
 | Parte individual — Carmen Castillo Gaitán | Carmen | https://youtu.be/A1GBMs84Oy0 |
-| Parte individual — Cristian Gabriel Cocargeanu | Cristian | *(pendiente de enlace)* |
+| Parte individual — Cristian Gabriel Cocargeanu | Cristian | https://www.youtube.com/watch?v=I9QWb5JQQ3E |
 
 ---
 
@@ -159,7 +157,7 @@ Más allá de lo técnico, lo que más me llevo de las prácticas es haber visto
 | [`README.md`](./README.md) | Este documento |
 | [`REWE_digital.pptx`](./REWE_digital.pptx) | Presentación de empresa (común) |
 | [`PRACTICAS_CARMEN_CASTILLO.pdf`](./PRACTICAS_CARMEN_CASTILLO.pdf) | Memoria de prácticas de Carmen |
-| *(pendiente)* | Memoria de prácticas de Cristian |
+| [`CAP_diapositiva.pdf`](./CAP_diapositiva.pdf) | Memoria de prácticas de Cristian |
 
 ---
 
