@@ -136,7 +136,7 @@ Las prácticas en el equipo CAP fueron una experiencia muy positiva. Me permitie
 
 ### Material
 - Diapositivas: [`CAP_diapositiva.pdf`](./CAP_diapositiva.pdf)
-- Vídeo individual: *(pendiente — ver [Vídeos](#vídeos-de-la-exposición))*
+- Vídeo individual: *([Vídeos](#vídeos-de-la-exposición))*
 
 ---
 
