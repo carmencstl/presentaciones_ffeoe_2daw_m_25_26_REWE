@@ -89,7 +89,7 @@ Lengua vehicular durante toda la estancia: comunicación diaria con el equipo, p
 Más allá de lo técnico, lo que más me llevo de las prácticas es haber visto desde dentro cómo funciona una gran empresa y el mundo laboral real. Lo que más valoré fueron las **metodologías de trabajo y la organización** de los equipos. La experiencia también ha aumentado mi interés por el ámbito **DevOps**.
 
 ### Material
-- Diapositivas: [`Memoria_FCT.pptx`](./Memoria_FCT.pptx)
+- Diapositivas: [`PRACTICAS_CARMEN_CASTILLO.pdf`](./PRACTICAS_CARMEN_CASTILLO.pdf)
 - Vídeo individual: *( ver [Vídeos](#vídeos-de-la-exposición))*
 
 ---
@@ -158,7 +158,7 @@ Más allá de lo técnico, lo que más me llevo de las prácticas es haber visto
 |---|---|
 | [`README.md`](./README.md) | Este documento |
 | [`REWE_digital.pptx`](./REWE_digital.pptx) | Presentación de empresa (común) |
-| [`Memoria_FCT.pptx`](./Memoria_FCT.pptx) | Memoria de prácticas de Carmen |
+| [`PRACTICAS_CARMEN_CASTILLO.pdf`](./PRACTICAS_CARMEN_CASTILLO.pdf) | Memoria de prácticas de Carmen |
 | *(pendiente)* | Memoria de prácticas de Cristian |
 
 ---
