@@ -146,7 +146,7 @@ Más allá de lo técnico, lo que más me llevo de las prácticas es haber visto
 
 | Vídeo | Responsable | Enlace |
 |---|---|---|
-| Parte común (empresa) | Carmen y Cristian | *(pendiente de enlace)* |
+| Parte común (empresa) | Carmen y Cristian | https://youtu.be/Z2qFGWRVAeI |
 | Parte individual — Carmen Castillo Gaitán | Carmen | https://youtu.be/A1GBMs84Oy0 |
 | Parte individual — Cristian Gabriel Cocargeanu | Cristian | *(pendiente de enlace)* |
 
