@@ -37,7 +37,7 @@ Presentación general sobre REWE digital, elaborada **conjuntamente por Carmen y
 **Contenido:** qué es REWE digital y su contexto en el Grupo REWE · a qué se dedica · sedes y cultura *"Home of IT"* · innovación en el retail · modelo de negocio sostenible y objetivos climáticos.
 
 Diapositivas: [`REWE_digital.pptx`](./REWE_digital.pptx)
-Vídeo (parte común): *(pendiente — ver [Vídeos](#vídeos-de-la-exposición))*
+Vídeo (parte común): *(ver [Vídeos](#vídeos-de-la-exposición))*
 
 ---
 
@@ -149,8 +149,6 @@ Más allá de lo técnico, lo que más me llevo de las prácticas es haber visto
 | Parte común (empresa) | Carmen y Cristian | *(pendiente de enlace)* |
 | Parte individual — Carmen Castillo Gaitán | Carmen | https://youtu.be/A1GBMs84Oy0 |
 | Parte individual — Cristian Gabriel Cocargeanu | Cristian | *(pendiente de enlace)* |
-
-> Sustituir *"(pendiente de enlace)"* por la URL del vídeo (YouTube no listado, Vimeo, plataforma del centro, etc.) cuando esté disponible.
 
 ---
 
