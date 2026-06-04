@@ -36,7 +36,7 @@ Cuando el repositorio esté listo, **sustituye** en la **fila de tu empresa** la
 | <img src="img/erasmusplus.jpg" height="32" alt="Erasmus" /> | Erasmus+ - Yes Academy |  Sánchez Quintero, Rubén | https://github.com/RubenSanchez63/Presentacion-2DAW |
 | <img src="img/erasmusplus.jpg" height="32" alt="Erasmus" /> | Erasmus+  - Forum Ziviler | García Maldonado, Carlos Hugo| *pendiente* |
 | <img src="img/erasmusplus.jpg" height="32" alt="Erasmus" /> | Erasmus+  - OBI Servive | Villar Roldán, Luis| *pendiente* |
-| <img src="img/viewnext.jpeg" height="22" alt="ViewNext" /> | ViewNext | Díaz Plaza, Míriam<br> Espinosa Ramos, Dana <br> Jiménez González, Juan <br> Morente Vargas, Martín <br> Postigo Bernal, Miguel Ángel| *pendiente* |
+| <img src="img/viewnext.jpeg" height="22" alt="ViewNext" /> | ViewNext | Díaz Plaza, Míriam<br> Espinosa Ramos, Dana <br> Jiménez González, Juan <br> Morente Vargas, Martín <br> Postigo Bernal, Miguel Ángel| https://github.com/martinmorente-dev/Presentacion_VIEWNEXT |
 | <img src="img/generalelevadores.png" height="18" alt="Elevadores" /> | General Elevadores XXI, Sl | Fernández-Lomana Herrera, Pablo| *pendiente* |
 | <img src="img/TGame.png" height="32" alt="T Games" /> | T Games | Godino Wallace, Luis| *pendiente* |
 | <img src="img/accenture.png" height="22" alt="Accenture" /> | Accenture | López Calderón, Ignacio| https://github.com/IgnacioLopezCalderon/presentacion-practicas-ILC/tree/main |
