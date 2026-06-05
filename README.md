@@ -40,7 +40,7 @@ Cuando el repositorio esté listo, **sustituye** en la **fila de tu empresa** la
 | <img src="img/generalelevadores.png" height="18" alt="Elevadores" /> | General Elevadores XXI, Sl | Fernández-Lomana Herrera, Pablo| https://github.com/Pablo22852/Pablo_Fernandez_Lomana_Herrera_practicas_duales |
 | <img src="img/TGame.png" height="32" alt="T Games" /> | T Games | Godino Wallace, Luis| https://github.com/Luisito2312/Presentacion_2DAW |
 | <img src="img/accenture.png" height="22" alt="Accenture" /> | Accenture | López Calderón, Ignacio| https://github.com/IgnacioLopezCalderon/presentacion-practicas-ILC/tree/main |
-| <img src="img/uma.png" height="22" alt="UMA" /> | UMA | Mayger Giralde, Mateo Richard <br> | *pendiente* |
+| <img src="img/uma.png" height="22" alt="UMA" /> | UMA | Mayger Giralde, Mateo Richard <br> | https://github.com/SMR-08/Presentaciones-duales-de-2-DAW-ma-ana-del-curso-2025-2026 |
 | <img src="img/OverDev.png" height="22" alt="Over-Dev" /> | Over-Dev | Navajas García, Gonzalo <br> | https://github.com/Parzzig/Video_Practicas_GonzaloNavajas_2DAW |
 | <img src="img/Rem Experience.png" height="32" alt="" /> | REM Experience  | Palomares Rodríguez, Manuel <br> Romero Castillo, Javier |*[https://github.com/Manolo1709/Presentacion-2DAW/](https://github.com/Manolo1709/Presentacion-2DAW/tree/main)* |
 |  <img src="img/salvador.jpeg" height="22" alt="Panadería Salvador" /> | Panadería Confitería Salvador, Sl | Rivas García, David | https://github.com/DavidRivasG/presentacion_david_rivas_garcia |
