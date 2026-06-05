@@ -41,7 +41,7 @@ Cuando el repositorio esté listo, **sustituye** en la **fila de tu empresa** la
 | <img src="img/TGame.png" height="32" alt="T Games" /> | T Games | Godino Wallace, Luis| https://github.com/Luisito2312/Presentacion_2DAW |
 | <img src="img/accenture.png" height="22" alt="Accenture" /> | Accenture | López Calderón, Ignacio| https://github.com/IgnacioLopezCalderon/presentacion-practicas-ILC/tree/main |
 | <img src="img/uma.png" height="22" alt="UMA" /> | UMA | Mayger Giralde, Mateo Richard <br> | *pendiente* |
-| <img src="img/OverDev.png" height="22" alt="Over-Dev" /> | Over-Dev | Navajas García, Gonzalo <br> | *pendiente* |
+| <img src="img/OverDev.png" height="22" alt="Over-Dev" /> | Over-Dev | Navajas García, Gonzalo <br> | https://github.com/Parzzig/Video_Practicas_GonzaloNavajas_2DAW |
 | <img src="img/Rem Experience.png" height="32" alt="" /> | REM Experience  | Palomares Rodríguez, Manuel <br> Romero Castillo, Javier | *pendiente* |
 |  <img src="img/salvador.jpeg" height="22" alt="Panadería Salvador" /> | Panadería Confitería Salvador, Sl | Rivas García, David | https://github.com/DavidRivasG/presentacion_david_rivas_garcia |
 | <img src="img/iescampanillas.jpg" height="32" alt="IESCampanillas" /> | IES Campanillas |Trujillo Fernández, Daniel | *pendiente* |
