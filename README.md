@@ -30,18 +30,18 @@ Cuando el repositorio esté listo, **sustituye** en la **fila de tu empresa** la
 
 | Logo | Empresa | Participantes | Enlace al repositorio |
 | :--: | :-- | :-- | :-- |
-| <img src="img/silice.jpg" height="22" alt="Sílice" /> | Sílice | Bellón Payer, David<br> | *pendiente* |
-| <img src="img/64Train.png" height="18" alt=" 64Train" /> | 64Train | Bernal González, Martín<br> | *pendiente* |
+| <img src="img/silice.jpg" height="22" alt="Sílice" /> | Sílice | Bellón Payer, David<br> |https://github.com/Ezequielvb/Presentacion-Dual-SILICE |
+| <img src="img/64Train.png" height="18" alt=" 64Train" /> | 64Train | Bernal González, Martín<br> | https://github.com/Holasoymartin25/practicas-dual-64train |
 | <img src="img/erasmusplus.jpg" height="32" alt="Erasmus" /> | Erasmus+ - Rewe | Castillo Gaitán, Carmen <br> Gabriel Cocargeanu, Cristian| *pendiente* |
 | <img src="img/erasmusplus.jpg" height="32" alt="Erasmus" /> | Erasmus+ - Yes Academy |  Sánchez Quintero, Rubén | https://github.com/RubenSanchez63/Presentacion-2DAW |
 | <img src="img/erasmusplus.jpg" height="32" alt="Erasmus" /> | Erasmus+  - Forum Ziviler | García Maldonado, Carlos Hugo| *pendiente* |
 | <img src="img/erasmusplus.jpg" height="32" alt="Erasmus" /> | Erasmus+  - OBI Servive | Villar Roldán, Luis| *pendiente* |
 | <img src="img/viewnext.jpeg" height="22" alt="ViewNext" /> | ViewNext | Díaz Plaza, Míriam<br> Espinosa Ramos, Dana <br> Jiménez González, Juan <br> Morente Vargas, Martín <br> Postigo Bernal, Miguel Ángel| *pendiente* |
 | <img src="img/generalelevadores.png" height="18" alt="Elevadores" /> | General Elevadores XXI, Sl | Fernández-Lomana Herrera, Pablo| https://github.com/Pablo22852/Pablo_Fernandez_Lomana_Herrera_practicas_duales |
-| <img src="img/TGame.png" height="32" alt="T Games" /> | T Games | Godino Wallace, Luis| *pendiente* |
+| <img src="img/TGame.png" height="32" alt="T Games" /> | T Games | Godino Wallace, Luis| https://github.com/Luisito2312/Presentacion_2DAW |
 | <img src="img/accenture.png" height="22" alt="Accenture" /> | Accenture | López Calderón, Ignacio| https://github.com/IgnacioLopezCalderon/presentacion-practicas-ILC/tree/main |
 | <img src="img/uma.png" height="22" alt="UMA" /> | UMA | Mayger Giralde, Mateo Richard <br> | *pendiente* |
-| <img src="img/OverDev.png" height="22" alt="Over-Dev" /> | Over-Dev | Navajas García, Gonzalo <br> | *pendiente* |
+| <img src="img/OverDev.png" height="22" alt="Over-Dev" /> | Over-Dev | Navajas García, Gonzalo <br> | https://github.com/Parzzig/Video_Practicas_GonzaloNavajas_2DAW |
 | <img src="img/Rem Experience.png" height="32" alt="" /> | REM Experience  | Palomares Rodríguez, Manuel <br> Romero Castillo, Javier | *pendiente* |
 |  <img src="img/salvador.jpeg" height="22" alt="Panadería Salvador" /> | Panadería Confitería Salvador, Sl | Rivas García, David | https://github.com/DavidRivasG/presentacion_david_rivas_garcia |
 | <img src="img/iescampanillas.jpg" height="32" alt="IESCampanillas" /> | IES Campanillas |Trujillo Fernández, Daniel | *pendiente* |
